@@ -157,7 +157,7 @@ If you'd like to contribute to this guide, feel free to fork this repository and
 
 ## License
 
-This repository and its contents are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE).
+This repository and its contents are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE..md).
 
 ---
 
