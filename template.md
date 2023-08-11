@@ -1,7 +1,7 @@
 <!-- Logo and Center Alignment -->
 <div align="center">
   <a href="https://your-website-url.com">
-    <img src="path-to-your-logo.png" alt="Logo" height="300">
+    <img src="logo.png" alt="Logo" height="300">
   </a>
 </div>
 
@@ -17,10 +17,11 @@ Welcome to Project Name, where we [briefly describe what your project does in on
 - [List any secondary objectives or aspirations].
 - [Feel free to add more points if needed].
 
-Visit our [website](https://your-website-url.com) to learn more.
+Visit our [website](https:/your-website-url.com) to learn more.
 
 Thank you for your interest in our project. Join us in making a positive impact on [describe the focus of your project]!
 
+[![Product Name Screen Shot][product-screenshot]](https://github.com/YourUsername/YourRepo.git)
 ## Getting Started
 
 _To get started with this project, follow these steps :_
