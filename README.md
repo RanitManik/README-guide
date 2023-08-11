@@ -1,6 +1,6 @@
 # README.md Guide
 
-Welcome to the README.md Guide repository! This repository is designed to help you create effective and informative README.md files for your GitHub repositories. A well-written README.md can greatly enhance the visibility and usability of your projects.
+Welcome to the README.md Guide repository! This repository is designed to help you create effective and informative README.md files for your GitHub repositories. A well-written README.md can greatly enhance the visibility and usability of your projects.checkout the[template](template.md) to get started.
 
 ## What is a README.md?
 
