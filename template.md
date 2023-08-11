@@ -20,7 +20,8 @@
 ```bash
 git clone https://github.com/yourusername/yourproject.git
 cd yourproject
-npm install
+npm install 
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
