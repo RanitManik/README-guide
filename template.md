@@ -21,7 +21,7 @@ Visit our [website](https:/your-website-url.com) to learn more.
 
 Thank you for your interest in our project. Join us in making a positive impact on [describe the focus of your project]!
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/YourUsername/YourRepo.git)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://github.com/YourUsername/YourRepo.git) -->
 ## Getting Started
 
 _To get started with this project, follow these steps :_
