@@ -70,10 +70,4 @@ I would like to express my gratitude to the following individuals and resources 
 
 Thank you all for your support and contributions to this project!
 
-<!-- Back to Top Link -->
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
 [product-screenshot]: image.png
