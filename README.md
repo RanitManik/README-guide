@@ -150,6 +150,92 @@ These are just some of the basic markdown elements you can use to format your RE
 
 ---
 
+additionaly this are some pretty advanced markdown concepts that i use and want to share 
+
+### Adding Titles to Links
+
+You can add titles to links for a tooltip effect. To do this, enclose the title in quotation marks after the URL.
+
+```markdown
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
+```
+
+The rendered output looks like this:
+> My favorite search engine is Duck Duck Go.
+
+### URLs and Email Addresses
+
+To turn a URL or email address into a link, enclose it in angle brackets.
+
+```markdown
+<https://www.markdownguide.org>
+<fake@example.com>
+```
+
+The rendered output looks like this:
+> https://www.markdownguide.org
+> fake@example.com
+
+### Reference-style Links
+
+Reference-style links consist of two parts: the inline text and a stored reference elsewhere in the document.
+
+#### Formatting the First Part of the Link
+
+The first part is formatted with two sets of brackets, with a label pointing to the reference.
+
+```markdown
+[hobbit-hole][1]
+[hobbit-hole] [1]
+```
+
+#### Formatting the Second Part of the Link
+
+The second part is formatted with a label, followed by a colon, a space, the URL, and an optional title.
+
+```markdown
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles"
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle 'Hobbit lifestyles'
+[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle (Hobbit lifestyles)
+[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
+[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> 'Hobbit lifestyles'
+[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> (Hobbit lifestyles)
+```
+
+### Parentheses in URLs
+
+For compatibility, encode parentheses in URLs. Alternatively, use HTML tags.
+
+```markdown
+[a novel](https://en.wikipedia.org/wiki/The_Milagro_Beanfield_War_%28novel%29)
+<a href="https://en.wikipedia.org/wiki/The_Milagro_Beanfield_War_(novel)">a novel</a>
+```
+
+### Dual Linking Example
+
+```markdown
+[![An old rock in the desert](link of a image "tooltip")](link2 which will open onclick of the image)
+```
+
+### Escaping Characters
+
+To display a literal character, add a backslash (\) in front of it.
+
+### HTML Best Practices
+
+Some Markdown applications may not support all HTML tags. Use blank lines to separate block-level HTML elements, and avoid indenting tags with tabs or spaces.
+
+```html
+<div>
+  <!-- your content here -->
+</div>
+```
+
+Remember that Markdown syntax doesn't work inside block-level HTML tags.
+
+For more details, refer to your Markdown application's documentation regarding HTML support.
+
 
 ## Contribution
 
