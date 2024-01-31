@@ -1,12 +1,12 @@
 <!-- Logo and Center Alignment -->
 <div align="center">
   <a href="https://your-website-url.com">
-    <img src="logo.png" alt="Logo" height="300">
+    <img src="logo.png" alt="Logo" height="80">
   </a>
 </div>
 
 <!-- Title -->
-# Project Name - Catchy Tagline
+<h1 align=center>Project Name - Catchy Tagline</h1>
 
 <!-- Introduction -->
 Welcome to Project Name, where we [briefly describe what your project does in one or two sentences]. Our platform [describe the main purpose or value of your project].
