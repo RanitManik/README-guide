@@ -3,6 +3,34 @@
 Welcome to the README.md Guide repository! This repository is designed to help you create effective and informative README.md files for your GitHub repositories. A well-written README.md can greatly enhance the visibility and usability of your projects.
 checkout the [template](template.md) to get started.
 
+## Table of Contents
+
+- [What is a README.md?](#what-is-a-readmemd)
+- [Contents of a Good README.md](#contents-of-a-good-readmemd)
+- [Markdown Basics](#markdown-basics)
+  - [Headers](#headers)
+  - [Emphasis](#emphasis)
+  - [Lists](#lists)
+  - [Links](#links)
+  - [Images](#images)
+  - [Blockquotes](#blockquotes)
+  - [Code](#code)
+  - [Horizontal Rule](#horizontal-rule)
+  - [Tables](#tables)
+  - [Escape Characters](#escape-characters)
+- [Advanced Markdown Concepts](#advanced-markdown-concepts)
+  - [Adding Titles to Links](#adding-titles-to-links)
+  - [URLs and Email Addresses](#urls-and-email-addresses)
+  - [Reference-style Links](#reference-style-links)
+    - [Formatting the First Part of the Link](#formatting-the-first-part-of-the-link)
+    - [Formatting the Second Part of the Link](#formatting-the-second-part-of-the-link)
+  - [Parentheses in URLs](#parentheses-in-urls)
+  - [Dual Linking Example](#dual-linking-example)
+  - [Escaping Characters](#escaping-characters)
+  - [HTML Best Practices](#html-best-practices)
+- [Contribution](#contribution)
+- [License](#license)
+
 ## What is a README.md?
 
 A `README.md` is a markdown file that serves as the introduction and documentation for your project repository on GitHub. It's the first thing visitors see when they land on your repository page. A good README.md provides essential information about your project and guides users on how to use, contribute to, and understand your code.
@@ -150,6 +178,8 @@ These are just some of the basic markdown elements you can use to format your RE
 
 ---
 
+# Advanced Markdown Concepts
+
 additionaly this are some pretty advanced markdown concepts that i use and want to share 
 
 ### Adding Titles to Links
@@ -243,7 +273,7 @@ If you'd like to contribute to this guide, feel free to fork this repository and
 
 ## License
 
-This repository and its contents are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE..md).
+This repository and its contents are licensed under the [Unlicense](LICENSE.md). Feel free to use it without attribution.
 
 ---
 
