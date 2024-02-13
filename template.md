@@ -8,23 +8,20 @@
 <!-- Title -->
 <h1 align=center>Project Name - Catchy Tagline</h1>
 
-<!-- Introduction -->
-Welcome to Project Name, where we [briefly describe what your project does in one or two sentences]. Our platform [describe the main purpose or value of your project].
+<!-- Detailed Introduction -->
+Welcome to Project Name, an innovative solution that [provide more detailed description of what your project does]. Our platform is designed to [highlight the unique value proposition].
 
 ### What We Aim For
 
-- [Explain the main goals and intentions behind your project].
+- [Clearly articulate the main goals and intentions behind your project].
 - [List any secondary objectives or aspirations].
 - [Feel free to add more points if needed].
 
 Visit our [website](https:/your-website-url.com) to learn more.
 
-Thank you for your interest in our project. Join us in making a positive impact on [describe the focus of your project]!
-
-<!-- [![Product Name Screen Shot][product-screenshot]](https://github.com/YourUsername/YourRepo.git) -->
 ## Getting Started
 
-_To get started with this project, follow these steps :_
+_To get started with this project, follow these steps:_
 <br>
 
 - **Clone** the repository:
@@ -47,24 +44,25 @@ _To get started with this project, follow these steps :_
    ```bash
    git push --set-upstream origin DEV/{your_name}/{in which you working on}
 
-# Contact
+<!-- CONTACT -->
 
-- Name - <a href="https://github.com/YourUsername/YourRepo.git">Ranit Kumar Manik</a>
+## Contact
 
-- Email - ranitmanikofficial@outlook.com
-
-- Project Link - [https://github.com/YourUsername/YourRepo.git](https://github.com/YourUsername/YourRepo.git)
+- [<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /> Email](mailto:ranitmanik.dev@gmail.com)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="20" /> LinkedIn](https://www.linkedin.com/in/ranit-manik/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width="20" /> Instagram](https://www.instagram.com/ranit_manik_/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="20" /> Facebook](https://www.facebook.com/RanitKumarManik/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /> Twitter](https://twitter.com/RANIT_MANIK)
 
 <!-- ACKNOWLEDGMENTS -->
 
-<!-- Acknowledgments Section -->
 ## Acknowledgments
 
-I would like to express my gratitude to the following individuals and resources that have contributed to this project:
+I want to express my gratitude to the following individuals and resources that have contributed to this project:
 
 - **GitHub** community and platform for providing an incredible space to collaborate, share, and learn.
 - **[GitHub Education](https://education.github.com/)** for offering valuable resources that help students and educators use GitHub effectively.
-- **Open source contributors** who selflessly dedicate their time and expertise to make the world of software better for everyone.
+- Open source contributors who selflessly dedicate their time and expertise to make the world of software better for everyone.
 - **[GitHub Actions](https://github.com/features/actions)** for streamlining our development workflow and automating various tasks.
 - **[GitHub Pages](https://pages.github.com/)** for making it easy to host and share our project with the world.
 
