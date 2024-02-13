@@ -273,7 +273,7 @@ If you'd like to contribute to this guide, feel free to fork this repository and
 
 ## License
 
-This repository and its contents are licensed under the [Unlicense](LICENSE.md). Feel free to use it without attribution.
+This repository and its contents are licensed under the [Unlicense](LICENSE). Feel free to use it without attribution.
 
 ---
 
