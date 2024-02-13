@@ -178,9 +178,9 @@ These are just some of the basic markdown elements you can use to format your RE
 
 ---
 
-# Advanced Markdown Concepts
+## Advanced Markdown Concepts
 
-additionaly this are some pretty advanced markdown concepts that i use and want to share 
+Additionally, these are some pretty advanced markdown concepts that I use and want to share 
 
 ### Adding Titles to Links
 
