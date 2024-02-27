@@ -190,9 +190,6 @@ You can add titles to links for a tooltip effect. To do this, enclose the title 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 ```
 
-The rendered output looks like this:
-> My favorite search engine is Duck Duck Go.
-
 ### URLs and Email Addresses
 
 To turn a URL or email address into a link, enclose it in angle brackets.
@@ -201,10 +198,6 @@ To turn a URL or email address into a link, enclose it in angle brackets.
 <https://www.markdownguide.org>
 <fake@example.com>
 ```
-
-The rendered output looks like this:
-> https://www.markdownguide.org
-> fake@example.com
 
 ### Reference-style Links
 
