@@ -1,7 +1,7 @@
 # README-guide
 
 Welcome to the README.md Guide repository! This repository is designed to help you create effective and informative README.md files for your GitHub repositories. A well-written README.md can greatly enhance the visibility and usability of your projects.
-checkout the [template](template.md) to get started.
+checkout the [template](https://github.com/RanitManik/README-Template/blob/main/README.md) to get started.
 
 ## Table of Contents
 
@@ -270,4 +270,7 @@ This repository and its contents are licensed under the [Unlicense](LICENSE). Fe
 
 ---
 
-Feel free to use this template as a starting point for your own README.md guide repository. Remember to customize it based on your preferences and the specific guidelines you want to provide for writing effective README.md files.
+
+<p align="center">
+   Thank you for reading the <strong>README guide</strong>! Happy coding! 🚀
+</p>
